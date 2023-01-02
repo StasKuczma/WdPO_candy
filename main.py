@@ -55,10 +55,10 @@ while True:
     # cv.drawContours(img, contours, -1, (0, 255, 0), 8)
     #
     # cv.imshow("contour", img)
+#test commit
 
 
-
-
+#dd
 
 # # zielony
 # lower_green = np.array([35, 20, 40])
